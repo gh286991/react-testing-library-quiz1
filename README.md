@@ -1,2 +1,1 @@
-# react-testing-library-quiz1
-Created with CodeSandbox
+![](https://i.imgur.com/tNZlb5J.jpg)
